@@ -1,7 +1,12 @@
+import Chai from "./chai";
 
 function App() {
   return (
-   <h1> Snehal Prusty</h1>
+    <>
+    <Chai />
+    <p>hii i am snehal</p>
+    </>
+  
   );
 }
 
